@@ -44,7 +44,7 @@ module.exports = {
         hostname: "**.githubusercontent.com",
       },
       {
-        hostname: "**.lawrenceli.me",
+        hostname: "**.panloaf.com",
       },
     ],
   },
